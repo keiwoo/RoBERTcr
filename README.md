@@ -1,4 +1,4 @@
-This repository contains relevant information of our research article *Supervised fine-tuning enhances unsupervised learning from 30 million amino acids in TCR sequences*
+This repository contains relevant information of our research article *'Supervised fine-tuning enhances unsupervised learning from 45 million amino acids in TCR and peptide sequences'*.
 
 ## Reproduce results quickly
 We already provide our prediction results of every dataset in their corresponding file folder. If you want to train and test the model by yourself, please follow the instructions below.
