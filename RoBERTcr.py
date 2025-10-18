@@ -1,1 +1,1 @@
-# We will disclose the code for RoBERTcr after the paper is accepted.
+# We will disclose the code for RoBERTcr once the paper has been accepted.
