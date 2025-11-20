@@ -37,6 +37,3 @@ We provide a script for extracting pre-trained embedding conveniently. This scri
 
 ## Web server
 We also provide a web server for users to test their TCR-peptide pairs without running code. The web server is at [RoBERTcr Web Server](https://fca_icdb.mpu.edu.mo/robertcr/).
-
-## Acknowledgements
-We express our thanks to these researches.
