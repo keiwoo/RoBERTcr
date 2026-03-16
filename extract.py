@@ -7,7 +7,7 @@ import torch, pickle
 
 
 input_file = "sequences.txt"
-model_name = "/data/kwzhou/RoBERTcr/pre-trained-model/tcr" 
+model_name = "keiwoo/RoBERTtcr"  # or keiwoo/RoBERTpep
 mean = False
 
 tokenizer = BertTokenizer.from_pretrained(model_name, do_lower_case = False)
