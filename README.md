@@ -18,7 +18,7 @@ cuda=12.4
 ```
 There is no feature or function needing specific version of package, you can run `RoBERTcr.py` in your existing Python environment. 
 
-> If your device does not support `BF16` precision mode (GPU based on NVIDIA's Ampere and its subsequent architectures), you should set `bf16=False` at [line 184](./RoBERTcr.py#L184) which will cost 4x time more then at most.
+> If your device does not support `BF16` precision mode (GPU based on NVIDIA's Ampere and its subsequent architectures), you should set `bf16=False` at [line 184](./RoBERTcr.py#L184) which will cost 4x time more than at most.
 
 ### 3. Run the code
 
