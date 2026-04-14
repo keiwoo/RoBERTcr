@@ -8,4 +8,4 @@ tokenizer_config.json
 vocab.txt
 
 ```
-from https://huggingface.co/keiwoo/RoBERTtcr/tree/main
+from https://huggingface.co/keiwoo/RoBERTtcr
